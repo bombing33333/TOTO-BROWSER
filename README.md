@@ -1,0 +1,2 @@
+# TOTO-BROWSER
+TOTO BROWSER - CLOSED NETWORK TECHNICAL SPECIFICATION SYSTEM ARCHITECTURE OVERVIEW The TOTO browser operates as a completely isolated internet ecosystem.
